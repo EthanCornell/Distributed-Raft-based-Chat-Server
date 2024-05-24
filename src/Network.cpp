@@ -15,7 +15,7 @@
  *
  * Author: I-Hsuan (Ethan) Huang
  * Email: ih246@cornell.edu
- * Project: Cache Replacement Algorithms
+ * Project: Distributed-Raft-based-Chat-Server
  */
 
 #include "Network.h"
