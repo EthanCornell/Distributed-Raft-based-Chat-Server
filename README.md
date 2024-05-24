@@ -35,7 +35,7 @@ This project implements a distributed chat server using the Raft consensus algor
 ## Build Instructions
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server.git](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server.git)
+    git clone https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server.git
     cd Distributed-Raft-based-Chat-Server
     ```
 
